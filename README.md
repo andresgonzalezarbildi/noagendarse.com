@@ -2,7 +2,7 @@
 It's just a quick app to solve some work related problem
 **Link to project:** (https://noagendarsepuntocom.netlify.app/)
 
-![App screenshot](https://github.com/andresgonzalezarbildi/noagendarse.com/blob/main/App%20Screenshot.png?raw=true)
+![App screenshot](https://github.com/andresgonzalezarbildi/noagendarse.com/blob/main/Demo.gif?raw=true)
 
 ## How It's Made:
 
