@@ -32,20 +32,43 @@ font-family: 'Source Sans Pro', sans-serif;
 /******************************************
 /* LAYOUT
 /*******************************************/
-h1 {
-  margin-top: 15vh;
+header {
+  padding: 2vh 0 2vh 10vw;
+  width: 100vw;
+  border-bottom: 1px solid #369d7e;
+  align-self: start;
 }
+
 section {
+  margin-top: 10vh;
   display: flex;
   flex-direction: column;
 }
 section *{
   margin: 3vh;
 }
-button {
-  margin: 15vh;
-  font-weight: 700;
+input, select {
+  border: 1px solid rgba(54, 157, 126, 0.35);
+  border-radius: 25px;
+  background-color: #369d7e;
+  color: white;
+  height: 5vh;
+  text-align: center;
 }
+input::placeholder, select {
+  text-align: center;
+}
+button {
+  height: 5vh;
+  min-width: 7vw;
+  margin: 10vh;
+  font-weight: 700;
+  border: 1px solid rgba(54, 157, 126, 0.35);
+  border-radius: 25px;
+  background-color: #369d7e;
+  color: white;
+}
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
